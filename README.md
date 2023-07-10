@@ -1,1 +1,2 @@
-# Social_db
+# Socialdb
+SOCIAL NETWORKING SITE IN PHP and MYSQLI
